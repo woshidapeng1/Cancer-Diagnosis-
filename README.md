@@ -1,11 +1,11 @@
 # Cancer-Diagnosis-
 
 Contributors:
-Chen Kewei
-Li Jiaqi
-Li Minghao
-Li Zhimo
-Tao Yunpeng
+Chen Kewei        
+Li Jiaqi        
+Li Minghao        
+Li Zhimo        
+Tao Yunpeng       
 
 ############
 
