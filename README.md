@@ -8,6 +8,8 @@ Li Zhimo
 Tao Yunpeng
 
 ############
+
+
 Model: CNN
 
 To run this program, you need install Qtdesigner first, the python version is python3.7.
